@@ -7,6 +7,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
+<img width="1903" height="893" alt="Screenshot 2025-08-25 040436" src="https://github.com/user-attachments/assets/51999dac-0003-4391-93d8-66498e21e09d" />
+
+
+
 ## 🎯 Overview
 
 The Matplotlib Visualization Gallery is an interactive HTML showcase featuring various types of data visualizations you can create with Python's matplotlib library. Each example includes complete code snippets, use cases, and best practices for creating professional-quality plots.
