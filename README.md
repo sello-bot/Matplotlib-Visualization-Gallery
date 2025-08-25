@@ -127,9 +127,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sello Kgole**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@sello-bot](https://github.com/sello-bot)
+- LinkedIn: [Sello Kgole](www.linkedin.com/in/sello-kgole-ba450a295)
+- Email: skgole6@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -139,9 +139,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/matplotlib-visualization-gallery?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/matplotlib-visualization-gallery?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/matplotlib-visualization-gallery)
+![GitHub stars](https://img.shields.io/github/stars/sello-bot/matplotlib-visualization-gallery?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sello-bot/matplotlib-visualization-gallery?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sello-bot/matplotlib-visualization-gallery)
 
 ---
 
