@@ -56,7 +56,7 @@ plt.ylabel("Number of Users")
 plt.grid(True)
 plt.show()
 ```
-<img width="863" height="661" alt="Screenshot 2025-08-25 031244" src="https://github.com/user-attachments/assets/ee1c1dc0-4a88-44f6-bb97-e1396639c5c0" />
+<img width="663" height="461" alt="Screenshot 2025-08-25 031244" src="https://github.com/user-attachments/assets/ee1c1dc0-4a88-44f6-bb97-e1396639c5c0" />
 
 ### Performance Correlation Analysis
 
@@ -73,7 +73,7 @@ plt.ylabel("Performance Score")
 plt.grid(True)
 plt.show()
 ```
-<img width="889" height="671" alt="Screenshot 2025-08-25 031206" src="https://github.com/user-attachments/assets/4bb475ca-0438-4d17-bd28-6d00d688bb8e" />
+<img width="689" height="471" alt="Screenshot 2025-08-25 031206" src="https://github.com/user-attachments/assets/4bb475ca-0438-4d17-bd28-6d00d688bb8e" />
 
 ## 📁 Project Structure
 
